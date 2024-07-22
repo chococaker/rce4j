@@ -1,0 +1,4 @@
+1. ip addresses
+2. D.O.C.U.M.E.N.T.A.T.I.O.N
+3. tests
+4. jar injector (for MC plugins, add the PluginUpdateListener and init the StaticPersistingContainer in the onEnable method when injecting)
